@@ -1,5 +1,6 @@
 create database Employee;
 
+
 create table Employee
 (
     EmployeeId serial primary key,

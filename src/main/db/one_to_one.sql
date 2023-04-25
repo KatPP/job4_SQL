@@ -1,3 +1,4 @@
+
 create table Employee2
 (
     EmployeeId int primary key,
